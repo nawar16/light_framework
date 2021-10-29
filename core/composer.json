@@ -1,9 +1,0 @@
-{
-    "name": "lf/light-framework",
-    "require": {},
-    "autoload": {
-        "psr-4": {
-            "nawar\\framework\\": "./"
-        }
-    }
-}

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6aabb2509f0749c8a81b5bcaff85057e",
+    "content-hash": "424bb578b8901e8943c535368f471e1b",
     "packages": [
         {
             "name": "graham-campbell/result-type",
@@ -66,6 +66,37 @@
                 }
             ],
             "time": "2021-10-17T19:48:54+00:00"
+        },
+        {
+            "name": "nawar/framework",
+            "version": "v1.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/nawar16/light_framework.git",
+                "reference": "faa88065ffd3a72ffe611957af6164f60b7ec2bd"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/nawar16/light_framework/zipball/faa88065ffd3a72ffe611957af6164f60b7ec2bd",
+                "reference": "faa88065ffd3a72ffe611957af6164f60b7ec2bd",
+                "shasum": ""
+            },
+            "require": {
+                "vlucas/phpdotenv": "^5.3"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "app\\": "./",
+                    "nawar\\framework\\": "./core/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "support": {
+                "issues": "https://github.com/nawar16/light_framework/issues",
+                "source": "https://github.com/nawar16/light_framework/tree/v1.0.1"
+            },
+            "time": "2021-10-29T15:23:22+00:00"
         },
         {
             "name": "phpoption/phpoption",

@@ -1,5 +1,5 @@
 {
-    "name": "nawar/framework",
+    "name": "lf/framework",
     "autoload": {
         "psr-4": {
             "app\\": "./",
@@ -7,6 +7,7 @@
         }
     },
     "require": {
-        "vlucas/phpdotenv": "^5.3"
+        "vlucas/phpdotenv": "^5.3",
+        "nawar/framework": "^1.0"
     }
 }
