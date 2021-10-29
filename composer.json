@@ -2,7 +2,8 @@
     "name": "nawar/framework",
     "autoload": {
         "psr-4": {
-            "app\\": "./"
+            "app\\": "./",
+            "nawar\\framework\\": "./core/"
         }
     },
     "require": {

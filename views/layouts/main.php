@@ -1,5 +1,5 @@
 <?php
-use app\core\Application;
+use nawar\framework\Application;
 
 ?>
 <!doctype html>

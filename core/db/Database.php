@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\db;
+namespace nawar\framework\db;
 
-use app\core\Application;
+use nawar\framework\Application;
 
 class Database
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace nawar\framework;
 
-use app\core\exception\NotFoundException;
+use nawar\framework\exception\NotFoundException;
 
 class Router
 {

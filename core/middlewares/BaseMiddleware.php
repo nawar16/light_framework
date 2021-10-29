@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core\middlewares;
+namespace nawar\framework\middlewares;
 
 abstract class BaseMiddleware
 {

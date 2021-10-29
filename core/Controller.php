@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace nawar\framework;
 
-use app\core\middlewares\BaseMiddleware;
+use nawar\framework\middlewares\BaseMiddleware;
 
 class Controller
 {

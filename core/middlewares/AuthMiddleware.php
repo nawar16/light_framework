@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\middlewares;
+namespace nawar\framework\middlewares;
 
-use app\core\Application;
-use app\core\exception\ForbiddenException;
+use nawar\framework\Application;
+use nawar\framework\exception\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware
 {

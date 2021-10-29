@@ -1,5 +1,5 @@
 <?php
-/** @var $this \app\core\View */
+/** @var $this \nawar\framework\View */
 $this->title = 'Home';
 ?>
 <h1>Home</h1>

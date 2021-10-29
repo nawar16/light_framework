@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\db;
+namespace nawar\framework\db;
 
-use app\core\Application;
-use app\core\Model;
+use nawar\framework\Application;
+use nawar\framework\Model;
 
 abstract class DbModel extends Model
 {

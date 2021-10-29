@@ -1,7 +1,7 @@
 <?php
 namespace app\models;
 
-use app\core\UserModel;
+use nawar\framework\UserModel;
 
 class User extends UserModel
 {

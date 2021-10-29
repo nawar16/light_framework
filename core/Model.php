@@ -1,5 +1,5 @@
 <?php
-namespace app\core;
+namespace nawar\framework;
 
 abstract class Model
 {

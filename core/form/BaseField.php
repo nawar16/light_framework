@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\form;
+namespace nawar\framework\form;
 
 
-use app\core\Model;
+use nawar\framework\Model;
 
 abstract class BaseField
 {
